@@ -1,2 +1,4 @@
-# myiahvdh.CTI.github.io
- CTI Lab
+//1.) Myiah Vanderheyden mlvanderheyden@my.waketech.edu
+//2.) I created my GitHub account in November of 2022 while I was doing web development material through Udemy. Now, I am using it as part of a lab for my CTI110 class.
+//3.) I created a repository including a .gitattributes file and .README file that includes plain text such as this. I then cloned this folder directly to my desktop where I can remotely edit it and potentially upload changes later.
+//4.) The steps I took to clone my repository: First, I made sure that my current repository was the one I had just created. Second, I used the dropdown menu in File on GitHub Desktop and navigated to Clone Repository. Third, I clicked on Clone Repository and clicked on my desired repository to clone. Fourth, I realized at this point the local path was a folder that already had another repository in it, so I had to go create a new one in my desired location. Fifth, I chose this folder and hit Clone. Sixth, GitHub cloned the repository and I was then able to use my text editor (sublime text) to edit this file.
